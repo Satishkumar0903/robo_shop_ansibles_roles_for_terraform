@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb.devops-practice.site
+USER_HOST: user.devops-practice.site
+REDIS_HOST: redis.devops-practice.site
+CATALOGUE_HOST: catalogue.devops-practice.site
+RABBITMQ_HOST: rabbitmq.devops-practice.site
+CART_HOST: cart.devops-practice.site
+SHIPPING_HOST: shipping.devops-practice.site
+PAYMENT_HOST: payment.devops-practice.site
+DISPATCH_HOST: dispatch.devops-practice.site
+MYSQL_HOST: mysql.devops-practice.site
