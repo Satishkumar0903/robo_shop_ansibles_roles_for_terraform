@@ -7,4 +7,4 @@ CART_HOST: cart.app-dev.devops-practice.site
 SHIPPING_HOST: shipping.app-dev.devops-practice.site
 PAYMENT_HOST: payment.app-dev.devops-practice.site
 DISPATCH_HOST: dispatch.app-dev.devops-practice.site
-MYSQL_HOST: mysql-dev.devops-practice.site
+MYSQL_HOST: mysql.app-dev.devops-practice.site
