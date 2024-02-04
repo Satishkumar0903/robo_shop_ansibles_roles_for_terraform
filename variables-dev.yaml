@@ -8,3 +8,5 @@ SHIPPING_HOST: shipping.app-dev.devops-practice.site
 PAYMENT_HOST: payment.app-dev.devops-practice.site
 DISPATCH_HOST: dispatch.app-dev.devops-practice.site
 MYSQL_HOST: mysql-dev.devops-practice.site
+NEXUS_URL: http://172.31.14.18:8081/repository
+group_id: "com/roboshop"
